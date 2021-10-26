@@ -95,7 +95,22 @@ Most similar games are:
     
     * Fire escape assumes a fire already started and the player only needs to escape. In our game the player needs to stop the fire from ever taking place.  
 
-2. 
+2. Oneiros
+    * [Gameplay] (https://www.youtube.com/watch?v=Mn4pvzGuCJQ)
+
+    *Oneiros is a first person escape room taking place in a movie theatre, but things get out of hand and become interesting very quickly. The game encourages the player to inspect everything. It is similar to our game in that every object can be interacted with, whether it is useful or not. 
+
+    Our game would be different because it is time constrained and is not for the same audience. 
+
+3. The Room
+    * [Gameplay](https://www.youtube.com/watch?v=dRwzDphvhV4&list=PL5dr1EHvfwpP7DB1cqtuSk0r9kl9VhGF1)
+
+    * The room is also a first person escape room game, but it takes place in ancient times.
+
+    * The game is much bigger than what we got planned, hence, it is much slower and much more elaborate.
+
+    * Our game would be much quicker and more agile. The result of each level would not be fixed and it would not be a zero sum game like 'The Room'. 
+     
 
 
 </div>
