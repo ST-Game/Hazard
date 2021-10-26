@@ -1,5 +1,3 @@
-<div lang='he'>
-
 # Hazard
 
 **Move everything, escape the fire!**
@@ -109,8 +107,3 @@ Most similar games are:
     * The game is much bigger than what we got planned, hence, it is much slower and much more elaborate.
 
     * Our game would be much quicker and more agile. The result of each level would not be fixed and it would not be a zero sum game like 'The Room'. 
-     
-
-
-</div>
-
