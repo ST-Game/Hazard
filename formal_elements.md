@@ -6,9 +6,9 @@
 
 ## Concept
 
-Hazard is a children's game that meant to teach children how to handle dangerous objects without causing a fire hazard.
+Hazard is a puzzle game that meant to teach children how to handle hazardous objects without causing a fire, all while solving puzzles and keeping things playful and funny.
 
-A child steps into a room and has to find all objects that might cause a fire hazard. As the child progresses through the game, the objects become less and less immediate and the child has to search for clues that would help him find the objects (similar to escape room games).
+A child steps into a room and has to find all objects that might cause a fire. As the child progresses through the game, the objects become less and less immediate and the child has to search for clues that would help him find the objects (similar to escape room games).
 
 ---
 
@@ -27,81 +27,75 @@ A child steps into a room and has to find all objects that might cause a fire ha
 
 * When the time is up for each level, electrical power will go through the room's outlets and the fire stove, oven, or any other appliance would turn on. The players need to reach the end of the level with minimum objects left as hazardous in their room.
 
-* The first levels of the game would serve as a tutorial where the player would be asked to fail ans see the results of leaving the room uncleared. After seeing the damages, the player would be asked to fix the situation that caused the fire. 
+* The first levels of the game would serve as a tutorial where the player would be asked to fail and see the results of leaving the room uncleared. After seeing the damages, the player would be asked to fix the situation that caused the fire. 
 
 * In two player mode, the players could choose to sabotage the room of the other player, though it is not taught in the tutorials and the players are left to find that out on their own.
 
-### 3. תהליכים
+### 3. Processes
 
-תארו בפירוט את:
+* The first level should be extremely concise. It should take no more than 15 seconds to complete and figure the game out. A hazardous object in the room would be pointed at by an arrow and the player would have to fix the situation. In the same room, there would be another hazardous object and the player will not be instructed to move it. When the time is up for that level, the hidden object would catch fire and at that point, the player would understand the meaning of losing the game.
 
-* תהליך ההתחלה של המשחק - שלושים השניות הראשונות (זה הזמן ששחקן ממוצע, שייתקל במשחק שלכם באינטרנט, ישחק בו לפני שיחליט אם להמשיך או לא. מה תעשו כדי לגרום לו להישאר?);
-*	תהליך הליבה של המשחק – רצף-הפעולות שהשחקן מבצע שוב ושוב על-מנת להתקדם במשחק.
-*	תהליך הסיום של המשחק – הפעולות שהשחקן מבצע כדי לנצח / לסיים את המשחק.
-לגבי כל תהליך, תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+* Players would have to solve the puzzle of each level and move the correct objects in order to proceed to the next level. Solving puzzles will be constructed of finding keys, moving hidden objects and flipping switches. Players will use their keyboard to control the character on the screen.
 
-איך השחקן ילמד על התהליכים? 
+* Every level will be time constrained and will end with electrical power coming through wall outlets and appliances turning on. New levels could always be added and in later version the game's community could create their own puzzles.
 
-לגבי כל תהליך, ענו על השאלות: "מי עושה מה, איפה, מתי, ואיך?".
+* The game will end when the player finishes all the available puzzles.
 
-לגבי כל תהליך, תארו באיזה פקדים השחקן ישתמש (עכבר / מקלדת / מגע), ומה יקרה במשחק כתוצאה מכך.
+### 4. Rules
 
-### 4. חוקים
+* The player can move any moveable object, even if it seems it will not help them solve the puzzle. 
 
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
+* In single player mode, the player cannot leave the room. In two player mode, the player cannot leave the area in which the two rooms are present.
 
+* The player scores points at the end of the level, based on the amount of damage caused to the room. The less, the better. A 0-3 star system would be put in place.
 
-### 5. משאבים
-
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
-
-### 6. עימותים
-
-מה יהיו העימותים המרכזיים במשחק:
-
-* בין השחקן למערכת (מכשולים),
-* בין השחקן לשחקנים אחרים (יריבים),
-* בין השחקן לעצמו (דילמות)? 
+* Rules of the game would be made clear in the tutorial level. 
 
 
-### 7. גבולות
+### 5. Resources
 
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
+* The player could make use of every object in the room. Everything, apart from the walls, can be moved and used.
 
- איך המשחק יראה לשחקן את הגבולות? 
- 
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
+* The player can climb stools to reach a higher shelves, flip switches to power off an appliance, move objects from hazardous positions etc.
+
+* The player can use hint points to get hints that would aid him in solving the current puzzle.
+
+* For every level completed with 3 stars, the player will get coins that can be later used to buy hint points. Hint points will be hard to achieve because the player has to solve the puzzle with 3 stars. 
+
+* The amount of coins and hint points can be displayed in the corner of the screen.
+
+### 6. Conflict
+
+* Time is your main adversary in the game. Players should be quick on their feet and creative. 
+* In two player mode, every player has to out-score the other player. 
 
 
-### 8. תוצאות
+### 7. Boundaries
 
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+
+The room's walls would serve as the main boundaries of the game. 
+A wall is a clear and well known boundary and every child will be able to figure it out.
+
+
+### 8. Results
+
+* Every level would have 4 available outcomes, represented by the 0-3 stars a player can achieve. 
+
+* The outcome is solely dependent on skills. 
+* In both single and two player mode, the game would have complex result. The player will be ranked 0-3 stars according to their performance.
 
 ---
 
-## סקר שוק
+## Market Research
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+Most similar games are:
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+1. Fire Escape!
+    * [Gameplay](https://www.youtube.com/watch?v=EhbXFbKa3Jo)
+    
+    * Fire escape assumes a fire already started and the player only needs to escape. In our game the player needs to stop the fire from ever taking place.  
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
-
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+2. 
 
 
 </div>
