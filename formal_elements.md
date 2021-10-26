@@ -7,6 +7,7 @@ Hazard is a puzzle game that meant to teach children how to handle hazardous obj
 
 A child steps into a room and has to find all objects that might cause a fire. As the child progresses through the game, the objects become less and less immediate and the child has to search for clues that would help him find the objects (similar to escape room games).
 
+![child opening lock](./play.png)
 ---
 
 
