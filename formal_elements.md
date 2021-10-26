@@ -2,8 +2,7 @@
 
 # Hazard
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
-
+**Move everything, escape the fire!**
 ## Concept
 
 Hazard is a puzzle game that meant to teach children how to handle hazardous objects without causing a fire, all while solving puzzles and keeping things playful and funny.
