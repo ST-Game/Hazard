@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Oven
+  - Hazard
   layers:
   - Default
   - TransparentFX
@@ -46,4 +48,10 @@ TagManager:
     locked: 0
   - name: Furniture
     uniqueID: 357404135
+    locked: 0
+  - name: Objects
+    uniqueID: 212441813
+    locked: 0
+  - name: Player
+    uniqueID: 2816531671
     locked: 0
